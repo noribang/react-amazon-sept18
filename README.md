@@ -1,1 +1,1 @@
-# react-amazon-sept18
+# Parody of Amazon.com written in React.js.
